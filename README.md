@@ -4,7 +4,7 @@ I wrote that checker myself when I was active
 on cracking forums. 
 With that src, you can easily compile your own
 cracking software uing RAD studio (Delphi) by 
-justing modifying few lines of code!
+just editing few lines of code!
 
 ### Features 
 - Multi-Threaded up to 300 simultanous threads
